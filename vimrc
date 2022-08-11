@@ -52,6 +52,7 @@ nnoremap <leader>v :Vexplore<cr>
 nnoremap <leader>t :Texplore<cr>
 nnoremap <leader>r :Rexplore<cr>
 
+set expandtab
 set shiftwidth=4
 set tabstop=4
 set textwidth=80
